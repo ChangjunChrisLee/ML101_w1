@@ -394,6 +394,14 @@ Because, a cute robot like below is enough to help our thought
 
 -   The official in-class time is AM 10:00 \~ 12:00
 
+## Weekly Design {.scrollable}
+
+<br> <br>
+
+See the About section in course home
+
+<https://cjleelab.netlify.app/teaching/ml101/about/>
+
 ## Textbooks
 
 <br>
@@ -429,19 +437,27 @@ Because, a cute robot like below is enough to help our thought
 | QZ #1 & QZ #2         | 50        |
 | IC-PBL Final Score    | 30        |
 | Total                 | 100       |
-
 :::
 
 ::: {.column width="60%"}
-- When attendance falls below 1/3 in a class, it may result in a grade of F.
+-   When attendance falls below 1/3 in a class, it may result in a grade of
 
-  - This policy is in place to encourage regular attendance and ensure that all students have the opportunity to fully participate in the learning experience. It is the responsibility of the students to attend classes regularly and stay engaged in their education.
+    F.  
 
--   The Final Score for the ICPBL is calculated by multiplying the ICPBL Team Score with the Individual Peer Review Score.
+    -   This policy is in place to encourage regular attendance and ensure
+        that all students have the opportunity to fully participate in the
+        learning experience. It is the responsibility of the students to
+        attend classes regularly and stay engaged in their education.
 
--   Individual Peer Review Scores are obtained through an anonymous survey conducted within the group.
+-   The Final Score for the ICPBL is calculated by multiplying the ICPBL
+    Team Score with the Individual Peer Review Score.
 
--   It is worth noting that the team assignment is only available for domestic students. On the other hand, exchange students are required to complete an individual project.
+-   Individual Peer Review Scores are obtained through an anonymous survey
+    conducted within the group.
+
+-   It is worth noting that the team assignment is only available for
+    domestic students. On the other hand, exchange students are required to
+    complete an individual project.
 :::
 :::
 

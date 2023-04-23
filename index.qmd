@@ -7,7 +7,7 @@ format:
     theme: ["theme/q-theme.scss"]
     slide-number: c/t
     logo: "img/HYU_logo_singlecolor_png.png"
-    footer: "[https://cjleelab.netlify.app/teaching/ml101/](https://cjleelab.netlify.app/teaching/ml101/)"
+    footer: "[https://changjunlee.com/teaching/ml101/](https://changjunlee.com/teaching/ml101/)"
     code-copy: true
     center-title-slide: false
     code-link: true
@@ -43,7 +43,8 @@ editor:
 
 <h3>
 
-`r fontawesome::fa("home", "black")`  <https://cjleelab.netlify.app/>
+`r fontawesome::fa("home", "black")`
+ [https](https://changjunlee.com/){.uri}[://](https://cjleelab.netlify.app/){.uri}[changjunlee](https://changjunlee.com){.uri}[.com/](https://cjleelab.netlify.app/){.uri}
 
 ![](img/ML_icon.png){.absolute top="400" left="1250" width="500"}
 
@@ -400,7 +401,7 @@ Because, a cute robot like below is enough to help our thought
 
 See the About section in course home
 
-<https://cjleelab.netlify.app/teaching/ml101/about/>
+<https://changjunlee.com/teaching/ml101/about/>
 
 ## Textbooks
 

@@ -6,7 +6,7 @@ format:
   revealjs:
     theme: ["theme/q-theme.scss"]
     slide-number: c/t
-    logo: "img/HYU_logo_singlecolor_png.png"
+    logo: "img/skku_logo.jpg"
     footer: "[https://changjunlee.com/teaching/ml101/](https://changjunlee.com/teaching/ml101/)"
     code-copy: true
     center-title-slide: false
@@ -31,20 +31,23 @@ editor:
 
 <hr>
 
+<br>
+
+<br>
+
+<br>
+
 <h3>Changjun Lee</h3>
 
-<h4>Hanyang University</h4>
+<h4>SKKU</h4>
 
-<h4>Dep. Media & Social Informatics</h4>
+<h4>School of Convergence</h4>
 
 <!-- <h4>2022-06-03</h4> -->
 
 <br>
 
 <h3>
-
-`r fontawesome::fa("home", "black")`
- [https](https://changjunlee.com/){.uri}[://](https://cjleelab.netlify.app/){.uri}[changjunlee](https://changjunlee.com){.uri}[.com/](https://cjleelab.netlify.app/){.uri}
 
 ![](img/ML_icon.png){.absolute top="400" left="1250" width="500"}
 
@@ -71,8 +74,6 @@ editor:
 
     -   Model evaluation, feature selection, and regularization
 
-. . .
-
 -   Teaches algorithms such as:
 
     -   Linear and logistic regression
@@ -80,8 +81,6 @@ editor:
     -   Naive Bayes, decision trees, random forests, and kNN
 
     -   K-means and Apriori
-
-. . .
 
 -   Covers advanced topics like natural language processing
 
@@ -118,16 +117,6 @@ editor:
 -   Requirement
 
     ![](img/Requirement.png){width="1600"}
-
-## Data Science Tech Tree in HY ERICA MSI
-
-#### Media & Social Informatics
-
-<br>
-
-<br>
-
-![](img/capstone.png){width="1500"}
 
 ## What is Machine Learning?
 
@@ -393,7 +382,7 @@ Because, a cute robot like below is enough to help our thought
         opportunity to apply their knowledge and develop their coding
         skills.
 
--   The official in-class time is AM 10:00 \~ 12:00
+-   The official in-class time is 9:00 \~ 10:50
 
 ## Weekly Design {.scrollable}
 
@@ -435,8 +424,8 @@ See the About section in course home
 |-----------------------|-----------|
 | Attendance            | 0         |
 | Discussion Submission | 20        |
-| QZ #1 & QZ #2         | 50        |
-| IC-PBL Final Score    | 30        |
+| QZ #1 & QZ #2         | 40        |
+| PBL Proj Final Score  | 40        |
 | Total                 | 100       |
 :::
 
@@ -449,15 +438,14 @@ See the About section in course home
         learning experience. It is the responsibility of the students to
         attend classes regularly and stay engaged in their education.
 
--   The Final Score for the ICPBL is calculated by multiplying the ICPBL
-    Team Score with the Individual Peer Review Score.
+-   The Final Score for the PBL is calculated by multiplying the PBL Team
+    Score with the Individual Peer Review Score.
 
     -   Individual Peer Review Scores are obtained through an anonymous
         survey conducted within the group.
 
-    -   It is worth noting that the team assignment is only available for
-        domestic students. On the other hand, exchange students are
-        required to complete an individual project.
+    -   Data in use will be guided but not limited to them, Team can use
+        their own data
 :::
 :::
 
@@ -469,13 +457,11 @@ See the About section in course home
 
 -   Please join Kakao open-chat room
 
-    -   THU_ML101_2023 (목요일반)
+    -   <https://open.kakao.com/o/gli0lhDg>
 
-        -   <https://open.kakao.com/o/gQnhw75e>
-
-    -   TUE_ML101_2023 (화요일반)
-
-        -   <https://open.kakao.com/o/gwiEw75e>
+    -   When you enter, please make sure to enter your name as it is on the
+        attendance sheet. (입장하셔서 이름을 꼭 출석부에 있는 이름으로
+        설정해주세요.)
 
 <br>
 
@@ -483,6 +469,4 @@ See the About section in course home
 
 -   CJ-counselling room (Anything but the class content)
 
-    -   CJ상담실: <https://open.kakao.com/o/s90SQocc>
-
-    -   pw: `hanyang`
+    -   CJ상담실: <https://open.kakao.com/o/s8zTrYCf>
